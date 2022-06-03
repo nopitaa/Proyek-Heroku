@@ -8,7 +8,7 @@
       <div class="social-links">
         <a href="https://github.com/nopitaa" class="google-plus"><i class="bx bxl-github"></i></a>
         <a href="https://www.linkedin.com/in/novita-syahwa-hapsari-a01022230/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-        <a href="https://instagram.com/nopii.xn?utm_medium=copy_link" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="https://www.instagram.com/novitasyahwahapsari/" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://api.whatsapp.com/send/?phone=081229555381&text&app_absent=" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
         <a href="https://t.me/Novitasyahwa" class="telegram"><i class="bx bxl-telegram"></i></a>
       </div>
